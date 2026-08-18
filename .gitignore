@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+output/*.wav
+output/*.mp3
+output/history.json
+.DS_Store
